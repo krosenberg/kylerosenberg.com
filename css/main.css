@@ -44,9 +44,9 @@ p {
   /*text-shadow: 0 1px 0 #323232;*/
 }
 
-a         { color: #565656; }
-a:hover   { color: #565656; }
-a:visited { color: #565656; }
+a         { color: #ACACAC; }
+a:hover   { color: #ACACAC; }
+a:visited { color: #ACACAC; }
 
 
 #photo {
